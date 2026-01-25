@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: "Some circumstantial evidence is very strong, as when you find a trout in the milk." --- Henry David Thoreau
 
 profile:
   align: right
@@ -26,6 +26,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+I am a member of the faculty of the Department of Mathematics at Oregon State University.  Previously, I was a faculty member in the [University of Oklahoma](https://www.ou.edu/) [Department of Mathematics](https://math.ou.edu/).  Before that, I was an NSF postdoctoral fellow and Franklin Fellow at the [University of Georgia](https://www.math.uga.edu/) with [Dan Nakano](https://www.math.uga.edu/directory/people/daniel-k-nakano) as my sponsoring scientist. Prior to that, I was a postdoctoral fellow at the [University of Toronto](https://www.mathematics.utoronto.ca/) for six months. Going back even further, I was a graduate student at the [University of Oregon](https://naturalsciences.uoregon.edu/mathematics).  I received my Ph.D. from Oregon in 2003 under the guidance of [Jon Brundan](https://pages.uoregon.edu/brundan/). Finally, a long, long time ago, I received my B.A. in mathematics from [Gustavus Adolphus College](https://gustavus.edu/academics/departments/mathematics-computer-science-and-statistics).
 
 Write your biography here. Tell the planet about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
