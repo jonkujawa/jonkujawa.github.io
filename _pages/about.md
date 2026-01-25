@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "Some circumstantial evidence is very strong, as when you find a trout in the milk." --- Henry David Thoreau
+subtitle: "Some circumstantial evidence is very strong, as when you find a trout in the milk." Henry David Thoreau
 
 profile:
   align: right
