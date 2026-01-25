@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: Some circumstantial evidence is very strong, as when you find a trout in the milk. - Henry David Thoreau
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>298B Kidder Hall</p>
+    <p>Oregon State University</p>
+    <p>Corvallis, OR 97331</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
