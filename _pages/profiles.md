@@ -16,7 +16,7 @@ profiles:
       <p>Oregon State University</p>
       <p>Corvallis, OR 97331</p>
   - align: left
-    image: ""
+    image: addison_day.jpg
     content: addison_bio.md
     image_circular: false
     more_info: >
