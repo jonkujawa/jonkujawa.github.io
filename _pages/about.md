@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle: Professor of Mathematics, Oregon State University
 
 profile:
   align: right
