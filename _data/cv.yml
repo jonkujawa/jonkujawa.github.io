@@ -1,189 +1,500 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
+  name: Jonathan Kujawa
+  label: Professor of Mathematics
+  email: Jonathan.Kujawa@oregonstate.edu
+  phone: 541-737-4686
+  website: https://beav.es/kujawa
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    city: Corvallis
+    region: OR
+    postalCode: "97331"
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: University of Oregon
+        location: Eugene, OR
+        area: Mathematics
+        studyType: Ph.D.
+        start_date: 1997
+        end_date: 2003
         highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+          - "Thesis Advisor: Jonathan Brundan"
+          - "Thesis: The Representation Theory of the Supergroup GL(m|n)"
+      - institution: University of Oregon
+        location: Eugene, OR
+        area: Mathematics
+        studyType: M.S.
+        start_date: 1997
+        end_date: 1999
+      - institution: Gustavus Adolphus College
+        location: St. Peter, MN
+        area: Mathematics
+        studyType: B.A.
+        start_date: 1993
+        end_date: 1997
+      - institution: Budapest Semesters in Mathematics
+        studyType: Study Abroad
+        start_date: 1995
+        end_date: 1996
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Oregon State University
+        position: Professor of Mathematics
+        location: Corvallis, OR
+        start_date: 2024
+      - company: University of Oklahoma
+        position: Professor of Mathematics
+        location: Norman, OK
+        start_date: 2017
+        end_date: 2023
+      - company: University of Oklahoma
+        position: Associate Professor of Mathematics
+        location: Norman, OK
+        start_date: 2012
+        end_date: 2017
+      - company: Mittag-Leffler Institute
+        position: Visiting Research Fellow
+        start_date: 2015
+        end_date: 2015
+      - company: University of Oklahoma
+        position: Assistant Professor of Mathematics
+        location: Norman, OK
+        start_date: 2007
+        end_date: 2012
+      - company: Mathematical Sciences Research Institute
+        position: Postdoctoral Member
+        start_date: 2008
+        end_date: 2008
+      - company: University of Georgia
+        position: NSF Postdoctoral Fellow & Franklin Teaching Fellow
+        location: Athens, GA
+        start_date: 2004
+        end_date: 2007
         highlights:
-          - Relativity
-          - Description 2.
-
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - "Senior Sponsoring Scientist: Daniel Nakano"
+      - company: University of Toronto
+        position: Postdoctoral Fellow
+        location: Toronto, ON
+        start_date: 2003
+        end_date: 2003
+      - company: University of Oregon
+        position: Graduate Teaching Fellow
+        location: Eugene, OR
+        start_date: 1997
+        end_date: 2003
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: Hartmann Faculty Scholar
+        awarder: Oregon State University
+        date: 2024
+      - title: Nancy Scofield Hester Presidential Professorship
+        awarder: University of Oklahoma
+        date: 2022
+      - title: Plenary Talk, AMS Sectional Meeting, U. Central Florida, Orlando, FL
+        date: 2017
+      - title: Irene Rothbaum Outstanding Assistant Professor
+        awarder: University of Oklahoma
+        date: 2012
+      - title: D. K. Harrison Research Award
+        awarder: University of Oregon
+        date: 2002
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+    Research Interests:
+      - bullet: "Representation theory and Lie theory. Particularly their connections to algebraic geometry, low-dimensional topology, and algebraic combinatorics."
+
+    Research Grants:
+      - label: "2025–30"
+        details: "Simons Foundation Travel Support for Mathematicians Grant (SFI-MPS-TSM-00014272)"
+      - label: "2026"
+        details: "Promoting Research Opportunities and Open Forums (PROOF) Research Group, SLMath (with L. Grimley, Z. Lin, C. Magnum, C. Uhl, and E. Wilson)"
+      - label: "2024"
+        details: "NSF Conference Grant (DMS-2401049)"
+      - label: "2024"
+        details: "NSA Conference Grant"
+      - label: "2024"
+        details: "NSA Conference Grant (H98230-24-1-0007)"
+      - label: "2022–27"
+        details: "Simons Foundation Collaboration Grant (No. 963912); relinquished in 2023 as part of move to OSU"
+      - label: "2020–24"
+        details: "SQuaRE Research Group, American Institute of Mathematics (with N. Davidson, R. Muth, and J. Zhu)"
+      - label: "2017–22"
+        details: "Simons Foundation Collaboration Grant (No. 525043)"
+      - label: "2016–17"
+        details: "NSA Research Grant (H98230-16-0055)"
+      - label: "2012–16"
+        details: "NSF Research Grant (DMS-1160763)"
+      - label: "2014"
+        details: "NSF Conference Grant (DMS-1406933)"
+      - label: "2011, 2012"
+        details: "OU College of Arts and Sciences Junior Faculty Summer Fellowship"
+      - label: "2011–12"
+        details: "NSA Research Grant (H98230-11-1-0127)"
+      - label: "2008, 2012"
+        details: "OU Vice President for Research Travel Grants"
+      - label: "2007–11"
+        details: "NSF Research Grant (DMS-0734226)"
+      - label: "2006"
+        details: "AMS/NSF Travel Grant to attend the 2006 ICM"
+      - label: "2004–07"
+        details: "NSF Postdoctoral Fellowship (DMS-0402916)"
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+      - title: "Superalgebra deformations of web categories: affine and cyclotomic webs"
+        authors: ["Nicholas Davidson", "Jonathan R. Kujawa", "Robert Muth"]
+        releaseDate: "2025"
+        summary: "Submitted (2025)"
+      - title: "Schur–Weyl equivalences for wreath product superalgebras"
+        authors: ["Lauren Grimley", "Jonathan R. Kujawa"]
+        releaseDate: "2025"
+        summary: "Submitted (2025)"
+      - title: "Lie superalgebras generated by reflections in Weyl groups of classical type"
+        authors: ["Christopher Drupieski", "Jonathan R. Kujawa"]
+        releaseDate: "2025"
+        summary: "Submitted (2025)"
+      - title: "Lie algebras generated by reflections in types BCD"
+        authors: ["Christopher Drupieski", "Jonathan R. Kujawa"]
+        releaseDate: "2025"
+        summary: "Submitted (2025)"
+      - title: "Superalgebra deformations of web categories: finite webs"
+        authors: ["Nicholas Davidson", "Jonathan R. Kujawa", "Robert Muth", "Jieru Zhu"]
+        releaseDate: "2023"
+        summary: "Submitted (2023)"
+      - title: "Quantum webs of type Q"
+        authors: ["Gordon Brown", "Nicholas Davidson", "Jonathan R. Kujawa"]
+        publisher: "Israel J. Math."
+        releaseDate: "2024"
+        summary: "To appear"
+      - title: "The Lie superalgebra of transpositions"
+        authors: ["Christopher Drupieski", "Jonathan R. Kujawa"]
+        publisher: "Algebras Represent. Theory"
+        releaseDate: "2024"
+        summary: "To appear"
+      - title: "Howe duality of type P"
+        authors: ["Nicholas Davidson", "Jonathan R. Kujawa", "Robert Muth"]
+        publisher: "Transformation Groups, Volume 30"
+        releaseDate: "2025"
+      - title: "A survey of support theories for Lie superalgebras and finite supergroup schemes"
+        authors: ["Christopher Drupieski", "Jonathan R. Kujawa"]
+        publisher: "Contemp. Math., 804"
+        releaseDate: "2024"
+      - title: "Support varieties for Lie superalgebras in characteristic 2"
+        authors: ["Christopher Drupieski", "Jonathan R. Kujawa"]
+        publisher: "Proc. Sympos. Pure Math., 108"
+        releaseDate: "2024"
+      - title: "Webs of type P"
+        authors: ["Nicholas Davidson", "Jonathan R. Kujawa", "Robert Muth"]
+        publisher: "Canad. J. Math., Volume 76, Issue 6"
+        releaseDate: "2024"
+      - title: "Positivity and web bases for Specht modules of Hecke algebras"
+        authors: ["Samuel Heard", "Jonathan R. Kujawa"]
+        publisher: "Int. Math. Res. Notices, rnad054"
+        releaseDate: "2023"
+      - title: "Troesch complexes and cohomology for strict polynomial superfunctors"
+        authors: ["Christopher Drupieski", "Jonathan R. Kujawa"]
+        publisher: "J. Pure Appl. Algebra, Volume 226, Issue 12"
+        releaseDate: "2022"
+      - title: "M-traces in (non-unimodular) pivotal categories"
+        authors: ["Nathan Geer", "Jonathan R. Kujawa", "Bertrand Patureau-Mirand"]
+        publisher: "Algebras Represent. Theory, 25, 759-776"
+        releaseDate: "2022"
+      - title: "Complexity and support varieties for type P Lie superalgebras"
+        authors: ["Brian Boe", "Jonathan R. Kujawa"]
+        publisher: "Math. Res. Lett., Volume 29, no. 1, 59-100"
+        releaseDate: "2022"
+      - title: "Webs of type Q"
+        authors: ["Gordon Brown", "Jonathan R. Kujawa"]
+        publisher: "Algebraic Combin., Volume 4, no. 6, 1027-1072"
+        releaseDate: "2021"
+      - title: "Support schemes for infinitesimal unipotent supergroups"
+        authors: ["Christopher Drupieski", "Jonathan R. Kujawa"]
+        publisher: "Advances in Math., 384"
+        releaseDate: "2021"
+      - title: "Support varieties and modules of finite projective dimension for modular Lie superalgebras"
+        authors: ["Christopher Drupieski", "Jonathan R. Kujawa"]
+        publisher: "Algebra & Number Theory, 15 no. 5"
+        releaseDate: "2021"
+        summary: "Appendix by L. Avramov and S. Iyengar"
+      - title: "Graded analogues of one-parameter subgroups and applications to the cohomology of GL_{m|n}(r)"
+        authors: ["Christopher Drupieski", "Jonathan R. Kujawa"]
+        publisher: "Advances in Math., 348, 277-352"
+        releaseDate: "2019"
+      - title: "On support varieties for Lie superalgebras and finite supergroup schemes"
+        authors: ["Christopher Drupieski", "Jonathan R. Kujawa"]
+        publisher: "J. of Algebra, 525, 64-110"
+        releaseDate: "2019"
+      - title: "On the cohomological spectrum and support varieties for infinitesimal unipotent supergroup schemes"
+        authors: ["Christopher Drupieski", "Jonathan R. Kujawa"]
+        publisher: "Adv. in Algebra, Springer Proc. Math. Stat., 277"
+        releaseDate: "2019"
+      - title: "A basis theorem for the degenerate affine Brauer-Clifford supercategory"
+        authors: ["Jonathan Brundan", "Jonathan Comes", "Jonathan R. Kujawa"]
+        publisher: "Canad. J. Math., 71 (5), 1061-1101"
+        releaseDate: "2019"
+      - title: "Geometric Schur duality of classical type"
+        authors: ["Huanchen Bao", "Jonathan R. Kujawa", "Yiqiang Li", "Weiqiang Wang"]
+        publisher: "Transformation Groups, 23, 329-389"
+        releaseDate: "2018"
+      - title: "Tensor triangular geometry for classical Lie superalgebras"
+        authors: ["Brian Boe", "Jonathan R. Kujawa", "Daniel Nakano"]
+        publisher: "Advances in Math., 314, 228-277"
+        releaseDate: "2017"
+      - title: "The marked Brauer category"
+        authors: ["Jonathan R. Kujawa", "Benjamin Tharp"]
+        publisher: "J. London Math. Soc. 95, No. 2, 393-413"
+        releaseDate: "2017"
+      - title: "Presenting Schur superalgebras"
+        authors: ["Houssein El Turkey", "Jonathan R. Kujawa"]
+        publisher: "Pacific J. Math., 262, No. 2, 285-316"
+        releaseDate: "2013"
+      - title: "Ambidextrous objects and trace functions for nonsemisimple categories"
+        authors: ["Nathan Geer", "Jonathan R. Kujawa", "Bertrand Patureau-Mirand"]
+        publisher: "Proc. Amer. Math. Soc., 141, no. 9"
+        releaseDate: "2013"
+      - title: "The generalized Kac-Wakimoto conjecture and support varieties for the Lie superalgebra osp(m|2n)"
+        authors: ["Jonathan R. Kujawa"]
+        publisher: "SE Lie Theory Conf. Proc., Proc. Symp. Pure Math., 86"
+        releaseDate: "2012"
+      - title: "Modified Traces on Deligne's Category Rep(S_t)"
+        authors: ["Jonathan Comes", "Jonathan R. Kujawa"]
+        publisher: "J. Algebraic Combin., 36, no. 4, 541-560"
+        releaseDate: "2012"
+      - title: "Complexity for modules over the classical Lie superalgebra gl(m|n)"
+        authors: ["Brian Boe", "Jonathan R. Kujawa", "Daniel Nakano"]
+        publisher: "Compositio Math., 148, Issue 5, 1561-1592"
+        releaseDate: "2012"
+      - title: "Degenerate affine Hecke-Clifford algebras and type Q Lie superalgebras"
+        authors: ["David Hill", "Jonathan R. Kujawa", "Joshua Sussan"]
+        publisher: "Math. Zeit., Volume 268, Numbers 3-4, 1091-1158"
+        releaseDate: "2011"
+      - title: "Generalized trace and modified dimension functions on ribbon categories"
+        authors: ["Nathan Geer", "Jonathan R. Kujawa", "Bertrand Patureau-Mirand"]
+        publisher: "Selecta Math., Volume 17, Issue 2, 453-504"
+        releaseDate: "2011"
+      - title: "Complexity and module varieties for classical Lie superalgebras"
+        authors: ["Brian Boe", "Jonathan R. Kujawa", "Daniel Nakano"]
+        publisher: "Int. Math. Res. Notices, no. 3, 696-724"
+        releaseDate: "2011"
+      - title: "Cohomology and support varieties for Lie superalgebras"
+        authors: ["Brian Boe", "Jonathan R. Kujawa", "Daniel Nakano"]
+        publisher: "Trans. Amer. Math. Soc., 362, 6551-6590"
+        releaseDate: "2010"
+      - title: "Cohomology and support varieties for Lie superalgebras II"
+        authors: ["Brian Boe", "Jonathan R. Kujawa", "Daniel Nakano"]
+        publisher: "Proc. London Math. Soc., 98, no. 1, 19-44"
+        releaseDate: "2009"
+      - title: "On Kostant's theorem for Lie algebra cohomology"
+        authors: ["UGA VIGRE Algebra Group"]
+        publisher: "Contemp. Math., 478, 39-60"
+        releaseDate: "2009"
+      - title: "Cohomology and support varieties for the Lie superalgebra W(n)"
+        authors: ["Irfan Bagci", "Jonathan R. Kujawa", "Daniel Nakano"]
+        publisher: "Int. Math. Res. Notices, Article ID: rnn115"
+        releaseDate: "2008"
+      - title: "Support varieties for Weyl modules over bad primes"
+        authors: ["UGA VIGRE Algebra Group"]
+        publisher: "J. Algebra, 312 no 2., 602-633"
+        releaseDate: "2007"
+      - title: "The Steinberg tensor product theorem for GL(m|n)"
+        authors: ["Jonathan R. Kujawa"]
+        publisher: "Contemp. Math., 413, 123-132"
+        releaseDate: "2006"
+      - title: "Representation type of Schur superalgebras"
+        authors: ["David Hemmer", "Jonathan R. Kujawa", "Daniel Nakano"]
+        publisher: "J. Group Theory, 9 no 3., 283-306"
+        releaseDate: "2006"
+      - title: "Crystal structures arising from representations of GL(m|n)"
+        authors: ["Jonathan R. Kujawa"]
+        publisher: "Rep. Theory, 10, 49-85"
+        releaseDate: "2006"
+      - title: "Varieties of nilpotent elements for simple Lie algebras II: bad primes"
+        authors: ["UGA VIGRE Algebra Group"]
+        publisher: "J. Algebra, 292 no 1., 65-99"
+        releaseDate: "2005"
+      - title: "A new proof of the Mullineux conjecture"
+        authors: ["Jonathan Brundan", "Jonathan R. Kujawa"]
+        publisher: "J. Algebraic Combin., 18, no 1., 13-39"
+        releaseDate: "2003"
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+    Conferences and Invited Talks:
+      - bullet: "**2026** — Algebraic and Geometric Representation Theory, UVA, Charlottesville, VA (July); 10th Pacific Rim Conference on Mathematics, Academia Sinica, Taiwan (June); Groups, Representations, and Cohomology, ICMS, Edinburgh, UK (June); Cluster Algebras, Webs, and Canonical Bases, BIRS, Banff, Canada (March); Cohomology of Finite Groups: Interactions and Applications, Oberwolfach, Germany (February)"
+      - bullet: "**2025** — AMS Central Section Meeting Special Session, U. of Denver, Denver, CO (August)"
+      - bullet: "**2024** — NZMS/AustMS/AMS Joint Meeting Special Session, Auckland, New Zealand (December); AMS/Unione Matematica Italiana Joint Meeting Special Session, Palermo, Italy (July); Workshop on Representations of Supergroups, Hausdorff Institute, Bonn, Germany (July); AMS Western Section Meeting Special Session, SFSU, San Francisco, CA (May); Representation Theory and Tensor Categories Seminar, Berkeley, CA (April); Symmetric Tensor Categories and Representation Theory, IPAM, UCLA, CA (January)"
+      - bullet: "**2023** — AMS Eastern Section Meeting Special Session, U. of Buffalo, SUNY, NY (October); Representation Theory of Hecke Algebras and Categorification, OIST, Okinawa, Japan (June); Colloquium, Oregon State University, Corvallis, OR (May); AMS Central Section Meeting Special Session, U. of Cincinnati, OH (April); AMS Southeastern Section Meeting Special Session, GA Tech, Atlanta, GA (March)"
+      - bullet: "**2022** — Symmetric Spaces, Their Generalizations, and Special Functions, Univ. of Ottawa, Canada (August); New directions in group theory and triangulated categories, online (July); Homological Comm. Algebra and Related Topics, Georgia Southern Univ., Savannah, GA (June)"
+      - bullet: "**2021** — AMS Southeastern Section Meeting Special Session, online (November); AMS Western Section Meeting Special Session, online (May); Superalgebra Theory and Representations Seminar (STARS), BGU-BIU-WIS, Israel (April)"
+      - bullet: "**2020** — New Trends in Rep. Theory (three talks), Hausdorff Institute, Bonn, Germany (October); AMS Western Section Meeting Special Session, online (October); Cohomology of Finite Groups: Interactions and Apps., MFO, Oberwolfach, Germany (August); Colloquium, Reed College (January)"
+      - bullet: "**2019** — Algebraic and Geometric Categorification, BIRS-CMO, Oaxaca, Mexico (December); AMS Central Section Meeting Special Session, UW-Madison, WI (September); Reps. of monoidal categories and 2-categories, Univ. of East Anglia, Norwich, UK (July); Vietnam-USA Joint Math. Meeting Special Session, Quy Nhon, Vietnam (June); AMS SE Section Meeting Special Session, Auburn Univ., AL (March)"
+      - bullet: "**2018** — Interactions of low-dim. topology and higher representation theory, Universität Zürich (September); Southwest Local Algebra Meeting, University of Arkansas (February); Colloquium and Seminar, University of Oregon (January)"
+      - bullet: "**2017** — Rep. Theory of Symmetric Groups and Related Algebras, IMS NUS, Singapore (December); Plenary talk, AMS SE Section Meeting, Univ. of Central Florida, Orlando, FL (October); Mathematical Congress of the Americas Special Session, Montréal, Canada (July); Workshop on Rep. Theory of Lie Superalg. and related topics, NCTS, Taipei, Taiwan (July); AMS SE Section Meeting Special Session, College of Charleston, SC (March); AMS National Meeting Special Session, Atlanta, GA (January)"
+      - bullet: "**2016** — AMS National Meeting Special Session, Seattle, WA (January)"
+      - bullet: "**2015** — Colloquium, DePaul University (October); Algebra and Combinatorics Seminar, Loyola University (October); Representation Theory Workshop, Uppsala, Sweden (May); Interaction of Rep. Theory with Geometry and Combinatorics, Bonn, Germany (March); Rep. Theory, Categorification, and Noncomm. Algebra, UNAM, Mexico City (January)"
+      - bullet: "**2014** — Commutative Algebra Seminar, University of Utah (October); Colloquium, Utah State University (October); Lie Theory Seminar, University of Colorado (October); Algebraic Lie Theory, ICMS, Edinburgh, Scotland (September); AMS Central Section Meeting Special Session, UW-Eau Claire, WI (September); Southeast Lie Theory Conference, University of Georgia (May); Great Plains Combinatorics Conference, University of Kansas (April); AMS SE Section Meeting Special Session, Univ. of Tennessee, Knoxville, TN (March)"
+      - bullet: "**2013** — AMS Eastern Section Meeting Special Session, Temple Univ., Philadelphia, PA (October); Workshop on Super Rep. Theory, Academia Sinica, Taipei, Taiwan (May); AMS Central Section Meeting Special Session, Univ. of Colorado, Boulder, CO (April)"
+      - bullet: "**2012** — AMS SE Section Meeting Special Session, Tulane University, New Orleans, LA (October); New York Algebra Colloquium, CUNY, NYC, NY (September); AMS Eastern Section Meeting Special Session, RIT, Rochester, NY (September); Lie Theory Seminar, University of CA, Riverside (May); AMS Central Section Meeting Special Session, Univ. of Kansas, Lawrence, KS (March); AMS SE Section Meeting Special Session (two talks), USF, Tampa, FL (March)"
+      - bullet: "**2011** — Colloquium, Utah State University (October); AMS Western Section Meeting Special Session, Univ. of Utah, Salt Lake City, UT (October); Algebraic Representation Theory Conference, Uppsala University, Sweden (September); Representation Theory Seminar, Virginia Tech (March)"
+      - bullet: "**2010** — Southeast Lie Theory Conference, University of Georgia (May); AMS Central Section Meeting Special Session, Macalester College, St. Paul, MN (April); Combinatorial Rep. Theory Workshop, MFO, Oberwolfach, Germany (March); AMS National Meeting Special Session, San Francisco, CA (January)"
+      - bullet: "**2009** — Algebra and Combinatorics Seminar, Texas A & M University (November); AMS Central Section Meeting Special Session, Baylor University, Waco, TX (October); LMS Symposium on Comb. Geo. Structures in Rep. Theory, Durham, UK (July)"
+      - bullet: "**2008** — AMS Central Section Meeting Special Session, Kalamazoo, MI (October); AMS Western Section Meeting Special Session, Vancouver, Canada (October); Rep. Theory, Geometry, and Combinatorics Seminar, UC Berkeley, CA (September); Summer School on Quantum Grps and Lie Theory, ECNU, Shanghai, China (July); Conference on Homological Methods in Rep. Theory, MSRI, Berkeley, CA (April); AMS SE Section Meeting Special Session, Baton Rouge, LA (March); Millican Colloquium, University of North Texas (February)"
+      - bullet: "**2007** — AMS SE Section Meeting Special Session, Murfreesboro, TN (November); Group Embeddings: Geometry and Representations, BIRS, Banff, Canada (September); Algebraic Lie Theory, BIRS, Banff, Canada (May); AMS SE Section Meeting Special Session, Davidson, NC (March); AMS National Meeting Special Session, New Orleans, LA (January)"
+      - bullet: "**2006** — Algebra Seminar, University of Toledo (November); Conference on Ass. and Non-ass. Alg. Structures, Oviedo, Spain (August); Algebra Seminar, University of Virginia (February)"
+      - bullet: "**2005** — Colloquium, University of Southern Alabama (October); Algebra Seminar, University of Southern Alabama (October); Algebra Seminar, University of Virginia (September); Conference on Alg. and Finite Reductive Groups, EPFL, Lausanne, Switzerland (June); Colloquium, Kansas State University (March); AMS National Meeting Special Session, Atlanta, GA (January)"
+      - bullet: "**2004** — Colloquium, University of Toledo (October); AMS Summer Res. Conf.: Rep. of Alg. Groups, Quant. Groups, and Lie Alg., Snowbird, UT (July)"
+      - bullet: "**2003** — Contributed Talk, AMS National Meeting, Baltimore, MD (January)"
+      - bullet: "**2002** — International Conf. on Rep. of Algebras X, Fields Institute, Toronto, ON (July); AMS Summer Res. Conf.: Groups, Reps. and Cohomology, Mount Holyoke College, MA (June)"
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+    Other Presentations:
+      - bullet: "**2024** — Algebra and Number Theory Seminar, Oregon State University (October, April, February)"
+      - bullet: "**2023** — Algebra Seminar, University of Oklahoma (November); Graduate Student Seminar, University of Oklahoma (September, January)"
+      - bullet: "**2022** — Algebra Seminar, University of Oklahoma (March)"
+      - bullet: "**2021** — Algebra Seminar, University of Oklahoma (November, April)"
+      - bullet: "**2019** — GIT Seminar, University of Oklahoma (November); Algebra Seminar, University of Oklahoma (March); Graduate Student Seminar, University of Oklahoma (April)"
+      - bullet: "**2018** — Algebra Seminar, University of Oklahoma (August)"
+      - bullet: "**2017** — Algebra Seminar, University of Oklahoma (September); Graduate Student Seminar, University of Oklahoma (April)"
+      - bullet: "**2015** — Graduate Student Seminar, University of Oklahoma (November)"
+      - bullet: "**2014** — Algebra Seminar, University of Oklahoma (September, March); Algebra Seminar, University of Georgia (April)"
+      - bullet: "**2012** — Algebra Seminar, University of Oklahoma (November, January)"
+      - bullet: "**2011** — Algebra Seminar, University of Oklahoma (August); Undergraduate Colloquium, Lewis and Clark College, Portland, OR (April)"
+      - bullet: "**2010** — Algebra Seminar, University of Oklahoma (August); VIGRE Summer School on Lie and Representation Theory, University of Georgia (May); Undergraduate Colloquium, Gustavus Adolphus College, St. Peter, MN (April); Mathematics Department Awards Dinner, University of Oklahoma (April); Algebra Seminar, University of Oklahoma (February, two talks)"
+      - bullet: "**2009** — Graduate Student Recruitment Day, University of Oklahoma (January); Algebra Seminar, University of Oklahoma (February, three talks)"
+      - bullet: "**2008** — Graduate Student Seminar, University of Oklahoma (October); Seminar on representations of symmetric groups and closely related objects, MSRI (May); Postdoctoral Seminar, MSRI (February)"
+      - bullet: "**2007** — Graduate Student Seminar, University of Oklahoma (October); Algebra Seminar, University of Oklahoma (September); VIGRE Graduate Seminar, University of Georgia (Spring)"
+      - bullet: "**2006** — Algebra Seminar, University of Georgia (November); VIGRE Algebra Seminar, University of Georgia (September); Algebra Seminar, University of Georgia (February)"
+      - bullet: "**2005** — VIGRE Graduate Seminar, University of Georgia (December); Algebra Seminar, University of Georgia (October); VIGRE Graduate Seminar, University of Georgia (April)"
+      - bullet: "**2004** — VIGRE Algebra Seminar, University of Georgia (October, three talks); Algebra Seminar, University of Georgia (September, March); Lie Theory Seminar, University of Georgia (February, three talks)"
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    Teaching:
+      - label: "Intro. to Module Theory"
+        details: "Winter 2026"
+      - label: "Intro. to Representation Theory I"
+        details: "Fall 2020, Fall 2012"
+      - label: "Lie Theory I"
+        details: "Fall 2010"
+      - label: "Lie Theory II"
+        details: "Spring 2016, Fall 2011"
+      - label: "Graduate Abstract Algebra I"
+        details: "Fall 2022, Fall 2016, Fall 2009"
+      - label: "Graduate Abstract Algebra II"
+        details: "Spring 2023, Spring 2017, Spring 2012, Spring 2010"
+      - label: "Abstract Linear Algebra"
+        details: "Fall 2022, Fall 2013, Fall 2010"
+      - label: "Discrete Mathematics"
+        details: "Spring 2021, Fall 2019, Spring 2018, Fall 2013"
+      - label: "Undergraduate Abstract Algebra I/II"
+        details: "Fall 2018/Spring 2019, Fall 2011/Spring 2012, Fall 2008/Spring 2009"
+      - label: "Honors Calculus IV"
+        details: "Spring 2010"
+      - label: "Honors Calculus III"
+        details: "Fall 2009"
+      - label: "Honors Calculus II"
+        details: "Winter 2025, Spring 2020, Fall 2012, Spring 2009"
+      - label: "Honors Calculus I"
+        details: "Fall 2008"
+      - label: "New Graduate Student Summer Seminar"
+        details: "Summer 2002"
+      - label: "Linear Algebra"
+        details: "Spring 2012, Spring 2005, Spring 2003"
+      - label: "Introduction to Probability and Statistics"
+        details: "Summer 2001"
+      - label: "Calculus III"
+        details: "Fall 2023 (x2), Fall 2007, Winter 2003, Spring 2002"
+      - label: "Calculus II"
+        details: "Fall 2017, Winter 2002, Spring 2001"
+      - label: "Calculus I"
+        details: "Spring 2013, 2011, 2005, 2004, 2000; Fall 2021, 2015, 2001"
+      - label: "Business Calculus II"
+        details: "Summer 1998"
+      - label: "Business Calculus I"
+        details: "Fall 2003"
+      - label: "Discrete Math III"
+        details: "Fall 2002, Summer 2000"
+      - label: "Introduction to Mathematical Modeling"
+        details: "Fall 2004"
+      - label: "Elementary Functions"
+        details: "Winter 2000, Summer 1998"
+      - label: "College Algebra"
+        details: "Fall 2000, 1999, 1997; Winter 1999, 1998; Spring 1999, 1998"
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+    Teaching Education:
+      - bullet: "**January 2004–June 2005** — Franklin Teaching Fellow Program, University of Georgia. A selective university-wide program to foster excellence in university teaching."
+      - bullet: "**Winter 2000** — Seminar on College Science Teaching, University of Oregon. An interdisciplinary seminar on teaching methods in university science courses."
+      - bullet: "**Fall 1997** — Seminar on Teaching Mathematics, University of Oregon. A weekly seminar on teaching mathematics in a university setting."
 
-      - name: English
-        summary: "Fluent"
+    Advising (Undergraduate):
+      - bullet: "**LSAMP and McNair Scholars Mentor** — Samuel Heard, University of Oklahoma (Fall 2019–Spring 2022)"
+      - bullet: "**McNair Scholars Mentor** — Skyler Moomey, University of Oklahoma (Summer 2020–Spring 2021)"
+      - bullet: "**Reading Course on Algebraic Geometry** — Haley Smith, Phillip Bretz, University of Oklahoma (Summer 2016)"
+      - bullet: "**Undergraduate Honors Thesis Advisor** — James Ramsey, OU (2022-2023); Sam Heard, OU (2020-2022); Colton Sandvik, OU (2020-2021); Timothy Rhyker Benavidez, OU (2011-2014); Teresa Whitelaw, OU (2012-2014); William Goldenberg, OU (2012-2013); Lauren Lajos, OU (2011-2013); Patrick Orchard, OU (2010-2011)"
+      - bullet: "**Vertical (Undergraduate + Graduate) Research Group** — University of Oklahoma (Spring 2009–present)"
+      - bullet: "**McNair Scholars Mentor** — Timothy Rhyker Benavidez, University of Oklahoma (Fall 2012–Spring 2014)"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    Advising (Graduate):
+      - bullet: "**Ph.D. advisor** — Addison Day, Oregon State University (2024–present)"
+      - bullet: "**M.S. advisor** — Keith Gallegos, Oregon State University (2024–2025)"
+      - bullet: "**Ph.D. advisor** — Erin Hausmann, University of Oklahoma (2019–2023); SMART Fellowship Recipient; now at Naval Information Warfare Center (NIWC) Pacific"
+      - bullet: "**Ph.D. advisor** — Ryan Reynolds, University of Oklahoma (2018–2023); now at Bucknell University"
+      - bullet: "**Ph.D. advisor** — Joseph Randich, University of Oklahoma (2018–2022); SMART Fellowship Recipient; now at Naval Information Warfare Center (NIWC) Pacific"
+      - bullet: "**Ph.D. advisor** — Jieru Zhu, University of Oklahoma (2014–2018); Bullard Dissertation Completion Award Recipient; now tenure-track at Queensland University, Brisbane, Australia"
+      - bullet: "**Ph.D. advisor** — Gordon Brown, University of Oklahoma (2014–2017); now at Lockheed-Martin"
+      - bullet: "**Ph.D. advisor** — Benjiman Tharp, University of Oklahoma (2013–2017); Bullard Dissertation Completion Award Recipient; now at Ingersoll Rand"
+      - bullet: "**Ph.D. advisor** — Houssein El Turkey, University of Oklahoma (2010–2014); now tenured at University of New Haven"
+      - bullet: "**Ph.D. committee member** — Brent Rappleye, OSU (2026–present); Brandin Faris, OSU (2025–present); Lucas Smith, OU (2022–2024); James Beyer, OU (2021–2024); Steven Lin, OU (2020–2024); Matthew Holtfrerich, OU Physics (2016–2024); Jugal Talukdar, OU Physics (2020–2023); Dustin Gaskins, OU (2019–2023); Jordan Danser, OU (2019–2022); Jessica Lajos, OU (2018–2021); Thomas Morgan, OU (2016–2019); Elizabeth Pacheco, OU (2013–2019); Colin Vernooy, OU (2014–2019); Kevin Haghi, OU Meteorology (2013–2017); William Carter, OU (2012–2015); Salam Turki, OU (2012–2015); Thomas Madsen, OU (2008–2014); Catherine Hall, OU (2008–2012); Kumar Balasubramanian, OU (2008–2012)"
+      - bullet: "**Secondary Ph.D. thesis advisor** — Irfan Bagci, University of Georgia (2005–2009); now tenured at University of North Georgia"
+      - bullet: "**Ph.D. committee member** — Kenyon Platt, University of Georgia (2005–2007)"
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+    Advising (Postdoctoral):
+      - bullet: "**Postdoctoral Mentor** — Lauren Grimley, University of Oklahoma (2022–present)"
+      - bullet: "**Postdoctoral Mentor** — Nick Davidson, University of Oklahoma (2016–2019); tenure track at College of Charleston, Charleston, SC"
+      - bullet: "**Postdoctoral Mentor** — Lei Zhao, University of Oklahoma (2010–2012); now at TF Securities, Beijing, China"
+      - bullet: "**Postdoctoral Mentor** — Stephen Spallone, University of Oklahoma (2008–2011); tenured at IISER Pune, Pune, India"
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+    Outreach:
+      - label: "Spring 2014–present"
+        details: "Author of a bi-monthly column on mathematics for 3 Quarks Daily"
+      - label: "Fall 2007–Fall 2021"
+        details: "High School Math Day Co-organizer, University of Oklahoma"
+      - label: "Fall 2010–Fall 2015"
+        details: "Faculty Panelist for Career Recruiter Day, University of Oklahoma"
+      - label: "Fall 2008–Spring 2013"
+        details: "Principal author of the OU Math Club blog"
+      - label: "Fall 2008–Spring 2012"
+        details: "Advisor to the undergraduate OU Math Club"
+      - label: "Winter 2004, Winter 2005"
+        details: "Mathematician, Barrow Elementary Career Day, Athens, GA"
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+    Service (Mathematical Community):
+      - bullet: "**Fall 2003–present** — Referee for Publ. of IHES, Compositio Math., Duke Math J., Proc. LMS, Proc. AMS, Comm. Math. Physics, Trans. Groups, Ann. Inst. Fourier, J. of Algebra, J. of Alg. Comb., Comm. in Algebra, J. Pure Appl. Algebra, J. of Comb. Theory-A, Acta Math. Sinica, Proc. Symp. of Pure Math., Glasgow Math. J., Quaestiones Math., Canadian J. of Math., Alg. Comb., etc."
+      - bullet: "**Fall 2003–present** — Reviewer for Mathematical Reviews"
+      - bullet: "**Fall 2026–present** — SLMath Academic Sponsors Committee, Chair"
+      - bullet: "**Fall 2018–2026** — SLMath (formerly MSRI) Academic Sponsors Day Committee member; Chair for 2020 Sponsors Day"
+      - bullet: "**2024–2026** — Guest editorial board member, J. of Pure and Applied Algebra"
+      - bullet: "**2021–2025** — Editorial board member, J. of Algebra"
+      - bullet: "**Summer 2024** — Co-organizer, Conference on Lie and Representation Theory, Univ. of Georgia"
+      - bullet: "**Spring 2024** — Co-organizer, SLAM Algebra Conference, Univ. of Oklahoma"
+      - bullet: "**Fall 2023** — External PhD thesis examiner, Iacopo Giordano, Université de Lille, France"
+      - bullet: "**Fall 2023** — Co-organizer, AMS Special Session, Mobile, Alabama"
+      - bullet: "**Spring 2019** — External PhD thesis examiner, Jyotirmoy Ganguly, IISER Pune, India"
+      - bullet: "**Spring 2019** — Co-organizer, AMS Special Session, Honolulu, Hawaii"
+      - bullet: "**Fall 2018** — Co-organizer, AMS Special Session, San Francisco, California"
+      - bullet: "**Fall 2014–Fall 2018** — MSRI Academic Sponsors Executive Committee member"
+      - bullet: "**Fall 2017** — Co-organizer, AMS Special Session, Orlando, Florida"
+      - bullet: "Invited grant reviewer for the Simons Foundation, Deutsche Forschungsgemeinschaft (DFG), U.S.-Israel Binational Science Foundation (thrice), and National Security Agency; invited grant panelist for NSF (twice)"
+      - bullet: "**Fall 2014** — Co-organizer of Algebraic Lie Theory Conference, ICMS, Edinburgh, Scotland"
+      - bullet: "**Fall 2011** — Co-organizer, AMS Special Session, Lincoln, Nebraska"
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    Service (University):
+      - bullet: "**Winter 2024–present** — Math Dept. Head, Oregon State University"
+      - bullet: "**Fall 2022–Fall 2023** — Math Dept. Executive Committee (Committee A), University of Oklahoma"
+      - bullet: "**Spring 2023** — Associate Chair, Dept. of Mathematics, University of Oklahoma"
+      - bullet: "**Fall 2019–Fall 2022** — Retirement Plans Management Committee Member, University of Oklahoma"
+      - bullet: "**Spring 2016–Fall 2021** — Associate Chair, Dept. of Mathematics, University of Oklahoma"
+      - bullet: "**Fall 2019–Spring 2020** — Search Committee Member, Math Faculty Position, University of Oklahoma"
+      - bullet: "**Fall 2019–Spring 2020** — Search Committee Member, AMO/CM Faculty Position, Physics Dept., University of Oklahoma"
+      - bullet: "**Fall 2015–Fall 2016** — Search Committee Chair, First Year Mathematics Director Position, University of Oklahoma"
+      - bullet: "**Fall 2012–Fall 2013** — Math Dept. Executive Committee (Committee A), University of Oklahoma"
+      - bullet: "**Fall 2011–Spring 2012** — Search Committee Chair, Math Education Faculty Position, University of Oklahoma"
+      - bullet: "**Fall 2010–Spring 2011** — Search Committee Member, Math Education Faculty Position, University of Oklahoma"
+      - bullet: "**Fall 2009–Spring 2010** — Search Committee Member, Postdoctoral Faculty Position, University of Oklahoma"
+      - bullet: "**Fall 2004–Spring 2007** — Algebra Seminar Coordinator, University of Georgia"
+      - bullet: "**Winter 2003–Spring 2007** — VIGRE Algebra Group Member, University of Georgia"
+      - bullet: "**Winter 2003–Spring 2005** — Lie Theory Seminar Coordinator, University of Georgia"
