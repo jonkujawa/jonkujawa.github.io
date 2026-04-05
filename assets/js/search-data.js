@@ -406,7 +406,7 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
             },},{id: "news-i-will-be-speaking-at-the-satellite-icm-conference-in-charlottesville-va-in-july-2026",
-          title: 'I will be speaking at the Satellite ICM conference in Charlottesville, VA in...',
+          title: 'I will be speaking at the satellite ICM conference in Charlottesville, VA in...',
           description: "",
           section: "News",},{id: "news-i-will-be-speaking-at-the-10th-pacific-rim-conference-on-mathematics-in-taipei-taiwan-in-june-2026",
           title: 'I will be speaking at the 10th Pacific Rim Conference on Mathematics in...',
