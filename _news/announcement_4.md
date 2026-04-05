@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be speaking at the Satellite ICM conference in Charlottesville, VA in July 2026.
+I will be speaking at the [Satellite ICM conference](https://math.virginia.edu/ims/selie_icm2026/) in Charlottesville, VA in July 2026.
