@@ -20,7 +20,7 @@ cv:
         end_date: 2003
         highlights:
           - "Thesis Advisor: Jonathan Brundan"
-          - "Thesis: The Representation Theory of the Supergroup GL(m|n)"
+          - "Thesis: The Representation Theory of the Supergroup GL(m\\|n)"
       - institution: University of Oregon
         location: Eugene, OR
         area: Mathematics
