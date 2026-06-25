@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be speaking at the [10th Pacific Rim Conference on Mathematics](https://sites.google.com/view/2026pacificrim/home) in Taipei, Taiwan in June 2026.
+I will be speaking at the [16th Southeastern Lie Theory Workshop](https://math.virginia.edu/2026/03/SE-Lie-Theory-ICM2026/) in Charlottesville, VA in July 2026.
