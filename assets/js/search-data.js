@@ -471,7 +471,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/fullcv.pdf", "_blank");
+          window.open("/assets/pdf/kujawa_cv.pdf", "_blank");
         },
       },{
         id: 'social-email',
