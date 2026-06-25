@@ -405,14 +405,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-will-be-speaking-at-the-satellite-icm-conference-in-charlottesville-va-in-july-2026",
-          title: 'I will be speaking at the satellite ICM conference in Charlottesville, VA in...',
-          description: "",
-          section: "News",},{id: "news-i-will-be-attending-groups-representations-cohomology-at-icms-in-edinburgh-in-june-2026",
+            },},{id: "news-i-will-be-attending-groups-representations-cohomology-at-icms-in-edinburgh-in-june-2026",
           title: 'I will be attending Groups, Representations, Cohomology at ICMS in Edinburgh in June...',
           description: "",
-          section: "News",},{id: "news-i-will-be-speaking-at-the-10th-pacific-rim-conference-on-mathematics-in-taipei-taiwan-in-june-2026",
-          title: 'I will be speaking at the 10th Pacific Rim Conference on Mathematics in...',
+          section: "News",},{id: "news-i-will-be-speaking-at-the-16th-southeastern-lie-theory-workshop-in-charlottesville-va-in-july-2026",
+          title: 'I will be speaking at the 16th Southeastern Lie Theory Workshop in Charlottesville,...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
